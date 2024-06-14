@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orempeaverma.github.io/sitemap
+Sitemap: https://orempeaverma.github.io/app/sitemap
+Sitemap: https://orempeaverma.github.io/assets/sitemap
+Sitemap: https://orempeaverma.github.io/css/sitemap
+Sitemap: https://orempeaverma.github.io/includes/sitemap
+Sitemap: https://orempeaverma.github.io/item/sitemap
+Sitemap: https://orempeaverma.github.io/src/sitemap
